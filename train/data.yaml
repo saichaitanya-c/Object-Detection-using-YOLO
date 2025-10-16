@@ -1,0 +1,7 @@
+train: E:/object dectection/train/images/train
+val: E:/object dectection/train/images/val
+nc: 3
+names:
+- class1
+- class2
+- class3

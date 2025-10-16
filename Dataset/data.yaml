@@ -1,0 +1,8 @@
+train: E:/object dectection/Dataset/images/train
+val: E:/object dectection/Dataset/images/val
+nc: 3
+names:
+  0: mouse
+  1: speaker
+  2: toy
+# nhugghyu  vc jui[879=-0-pi7o[;uku'/m ṅ,thlkool,.;01g g     g yghn   j]]
