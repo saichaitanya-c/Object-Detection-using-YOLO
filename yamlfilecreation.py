@@ -5,7 +5,7 @@ import yaml
 dataset_path = r"E:\object dectection\Dataset"
 
 # Define your class names here
-class_names = ["class1", "class2", "class3"]  # 👈 change these to your classes
+class_names = ["class1", "class2", "class3"]  # 👈 change these to your classes like toy ,speaker mouse
 
 # Construct dataset structure
 data_yaml = {
