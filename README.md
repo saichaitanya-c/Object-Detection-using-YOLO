@@ -224,9 +224,9 @@ Available formats: `onnx`, `torchscript`, `coreml`, `tflite`, `openvino`, `engin
 
 
 
-**SAI CHAITANYA KANCHARANA**
-📧 [your.email@example.com](kancharanasaichaitanya@gmail.com)
-🌐 [Your GitHub Profile](https://github.com/saichaitanya-c/)
+  **SAI CHAITANYA KANCHARANA**
+📧kancharanasaichaitanya@gmail.com
+🌐https://github.com/saichaitanya-c/
 
 ---
 
